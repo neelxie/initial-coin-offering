@@ -15,3 +15,6 @@ This is building ontop of the previous NTF collection found [here](https://githu
 ![Screenshot from 2022-05-31 09-59-51](https://user-images.githubusercontent.com/32802973/171121217-00e8a69e-1149-4072-9e07-281237ca4b7f.png)
 ![Screenshot from 2022-05-31 09-59-27](https://user-images.githubusercontent.com/32802973/171121226-add0a82a-cda1-48b7-9212-374420fa3c74.png)
 ![Screenshot from 2022-05-31 09-59-04](https://user-images.githubusercontent.com/32802973/171121245-4380073c-4717-4bc6-9d3a-fbebc1add47b.png)
+
+## Deployment
+Hosted App is [here](https://initial-coin-offering-beta.vercel.app/)
